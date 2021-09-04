@@ -1,0 +1,2 @@
+model_checkpoint_path: "trainednet-4218"
+all_model_checkpoint_paths: "trainednet-4218"
